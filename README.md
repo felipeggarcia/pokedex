@@ -50,6 +50,3 @@ O aplicativo possui testes de unidade e de widget, que podem ser executados com 
 
 
 `flutter test`
-
-## Conclusão
-Esperamos que este aplicativo de Pokedex seja útil para você. Se você tiver alguma dúvida ou sugestão. 
